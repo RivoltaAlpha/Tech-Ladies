@@ -1,0 +1,1 @@
+print("Kyu Tech Ladies")
